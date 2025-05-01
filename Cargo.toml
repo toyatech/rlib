@@ -1,0 +1,14 @@
+[package]
+name = "rlib"
+version = "0.1.0"
+edition = "2024"
+description = "A robotics library for Rust."
+authors = ["Dustin Little <dlittle@toyatech.net>"]
+license = "MIT OR Apache-2.0"
+keywords = ["robotics"]
+categories = ["embedded", "no-std"]
+readme = "README.md"
+repository = "https://github.com/toyatech/rlib.git"
+homepage = "https://rlib.dev"
+
+[dependencies]
